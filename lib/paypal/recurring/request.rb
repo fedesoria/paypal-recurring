@@ -92,6 +92,7 @@ module PayPal
         :credit_card_type      => "CREDITCARDTYPE",
         :credit_card_number    => "ACCT",
         :exp_date              => "EXPDATE",
+        :ccv                   => "CVV2",
         :first_name            => "FIRSTNAME",
         :last_name             => "LASTNAME"
         
